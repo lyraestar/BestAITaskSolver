@@ -1,0 +1,6 @@
+Task	Best Solver	Strong Competitor	Best Fast/Light Solver
+DepthEstimation	Depth-pro	DepthAnything-v2	
+BodyPartSegmentation	Sapiens		
+BodyPoseEstimation	Sapiens	DWPose-l	
+BodyDepthEstimation	Sapiens		
+BodyNormalEstimation	Sapiens		
